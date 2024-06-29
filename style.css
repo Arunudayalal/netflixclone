@@ -1,0 +1,277 @@
+* {
+    padding: 0;
+    margin: 0;
+   
+}
+
+.banner {
+    background-image: url('https://www.okynemedialab.com/wp-content/uploads/2019/11/netflix-background-50-Black.jpg');
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-size: cover;
+
+}
+
+.head {
+    display: flex;
+}
+
+.headicon h1 {
+    width: 25%;
+
+    color: red;
+    font-size: 70px;
+    padding-left: 3%;
+    font-family: "Risque", serif;
+    font-weight: bold;
+    background-color: black;
+    opacity: 70%;
+
+}
+
+.login {
+    width: 30%;
+    height: 60px;
+    margin-top: 4%;
+    margin-left: 45%;
+    border-radius: 3%;
+
+
+}
+
+.login select {
+    width: 150px;
+    color:white;
+    background-color: black;
+    border-style: double;
+    border-width: 10%;
+    border-color: beige;
+    padding: 6%;
+    opacity: .7;
+    border-radius: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: larger;
+    height: 50px;
+}
+
+.signup {
+    width: 30%;
+    height: 60px;
+    margin-top: 4%;
+
+}
+
+.signup button {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-color: aliceblue;
+    border-radius: 6%;
+}
+
+.centered {
+    width: 100%;
+    margin-top: 10%;
+    text-align: center;
+    color: white;
+
+    opacity: 1;
+
+
+}
+
+.sign {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+
+}
+
+.sign button {
+    background-color: red;
+    color: white;
+    border-color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 5%;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+
+.second{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+    display: flex;
+  
+   
+}
+.secondtext{
+text-align: center;
+color: white;
+margin-top: 15%;
+text-align: justify;
+margin-left: 2%;
+
+
+}
+.secondtext h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    margin-left: 2%;
+}
+.third{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+    display: flex;
+  
+}
+
+.thirdtext{
+    text-align: center;
+color: white;
+margin-top: 15%;
+text-align: justify;
+margin-right: 2%;
+
+}
+.thirdtext h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    margin-right: 2%;
+
+}
+.four{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+    display: flex; 
+}
+.fourtext{
+    text-align: center;
+    color: white;
+    margin-top: 15%;
+    text-align: justify;
+    margin-left: 2%;
+}
+.fourtext h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    margin-right: 2%;
+}
+.fifth{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+    display: flex;   
+}
+
+.fifthtext{
+    text-align: center;
+    color: white;
+    margin-top: 15%;
+    text-align: justify;
+    margin-right: 2%;
+
+}
+.fifthtext h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    margin-right: 2%;
+}
+
+
+.sixth{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+
+}
+.sixth h1{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 3%;
+    margin-right: 2%;
+    color: white;
+    text-align: center;
+
+}
+
+
+.quest{
+    margin-top: 3%;
+   
+}
+
+.sign2 {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+
+}
+
+.sign2 button {
+    background-color: red;
+    color: white;
+    border-color: white;
+    width: 120px;
+    height: 50px;
+    border-radius: 5%;
+    border-style: inset;
+    margin-left: 5%;
+    margin-top: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+
+.footer{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+    border-style: solid;
+    border-top-color: rgb(41, 43, 43);
+    border-top-width: 10px;
+
+}
+
+#selectfooter{
+    width: 150px;
+    color:white;
+    background-color: black;
+    border-style: inset;
+    border-width: 10%;
+    border-color: beige;
+    padding: 3%;
+    opacity: .7;
+    border-radius: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: larger;
+    height: 50px;
+}
